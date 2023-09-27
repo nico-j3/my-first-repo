@@ -1,1 +1,2 @@
 # my-first-repo
+ Hello! I'm Nicole J. and I am a Fall '23 fellow. I'm 23 years old, was born and raised in the South Bronx, and I have an Associates' degree in Biology. I attended Bronx Community College before coming to Marcy. 
